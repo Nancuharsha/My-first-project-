@@ -1394,7 +1394,7 @@ int main()
 	inserstion("micromax",7,"phone","canvas-j",7000.0,7800.0,9,"847-23","pantnicenter","thigalaveni","tamilnadu",938434,9234324);
 	sortthearray();
 	system("color 9a");
-	printf("                     \"Fayaz\" WELCOMES YOU TO THE STORE\n");
+	printf("                     \"Harsha\" WELCOMES YOU TO THE STORE\n");
 	printf("--------------------------------------------------------------------------------------------");
 	tostart:
 	printf("\nIF ADMIN PRESS '0' \nIF NEW TO THE SITE PRESS 2\n ");
@@ -1435,8 +1435,8 @@ int main()
     	printf("ENTER THE PASSWORD\n");
         printf(" DONOT WORRY TO CHECK WHETHER CAPSLOCK IS OFF OR ON\n");
 		scanf("%s",pw);
-    	npw=strcmp(pw,"fayaz");
-    	mpw=strcmp(pw,"FAYAZ");
+    	npw=strcmp(pw,"Harsha");
+    	mpw=strcmp(pw,"Harsha");
     	if(npw==0||mpw==0)
     	{
 		lllllll:
